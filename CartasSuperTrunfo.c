@@ -1,6 +1,5 @@
 // Aluno: Jeferson Santos
-// Desafio Super Trunfo - Países
-// Tema 1 - Cadastro das cartas
+// Desafio Super Trunfo - Países (Novato, Intermediário e Avançado)
 
 // utils: gcc super_trunfo.c && ./a.out
 
